@@ -1,0 +1,53 @@
+.single-page {
+  background-color: #FF8B9E;
+  font-family: 'Muli', sans-serif;
+  font-size:
+  color: #ffffff;
+  text-align: center;
+}
+
+.img-responsive {
+  padding-top: 80px;
+}
+
+.icons {
+  padding-top: 60px;
+  /*max-width: 60px;*/
+  max-height: 130px;
+  margin: 0 auto;
+  display: : block;
+}
+
+icons #pin {
+  /*max-width: 60px;*/
+}
+
+a {
+  color: #ffffff;
+
+}
+
+.address-hours {
+  padding-top: 10px;
+  list-style: none;
+  color: #ffffff;
+}
+
+.spacefiller {
+  height: 50px;
+}
+
+.nav-primary {
+  border: 1.5px solid;
+  border-left: 0;
+  border-right: 0;
+  border-color: #ffffff;
+    margin: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    line-height: 1;
+    font-size: 2.5rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    display: inline-block;
+}

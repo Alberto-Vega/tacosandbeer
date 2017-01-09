@@ -21,13 +21,14 @@
 
 a {
   color: #ffffff;
+}
 
+a:hover {
+  color: #00FF00;
 }
 
 .address-hours {
   text-align: center;
-  /*padding-top: 10px;*/
-  /*list-style: none;*/
   color: #ffffff;
 }
 
@@ -53,4 +54,25 @@ a {
     font-weight: 900;
     text-transform: uppercase;
     display: inline-block;
+}
+
+.nav-item-header {
+  color: #ffffff;
+  border: 1.5px solid;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  border-color: #ffffff;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.about {
+
+  text-align: center;
+  padding-bottom: 20px;
+  color: #ffffff;
+}
+
+.about p {
+  text-align: justify;
 }

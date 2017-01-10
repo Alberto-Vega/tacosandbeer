@@ -5,6 +5,11 @@
   color: #ffffff;
   text-align: center;
 }
+.body {
+  position: relative;
+  $('body').scrollspy({ target: '#nav-primary' })
+
+}
 
 .img-responsive {
   padding-top: 80px;

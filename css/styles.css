@@ -72,7 +72,14 @@ a:hover {
   padding-bottom: 20px;
   color: #ffffff;
 }
+.about h3 {
+  text-align: left;
+}
 
 .about p {
   text-align: justify;
+}
+
+.imagelink:hover {
+opacity: 0.4;
 }

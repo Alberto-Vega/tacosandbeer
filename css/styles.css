@@ -11,7 +11,6 @@
 .body h1 {
   font-family: 'Muli', sans-serif;
   font-size: 4rem;
-
 }
 
 .img-responsive {
@@ -24,7 +23,7 @@
   /*max-width: 60px;*/
   max-height: 130px;
   margin: 0 auto;
-  display: : block;
+  display: block;
 }
 
 a {

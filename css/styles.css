@@ -4,23 +4,22 @@
   color: #ffffff;
   text-align: center;
 }
-.body {
-  position: relative;
-  $('body').scrollspy({ target: '#nav-primary' })
-}
-.body h1 {
-  font-family: 'Muli', sans-serif;
-  font-size: 4rem;
-}
 
 .img-responsive {
   padding-top: 80px;
 }
 
+.logo {
+    padding-top: 110px;
+    padding-bottom: 30px;
+
+    width: 90%;
+    height: auto;
+}
+
 .icons {
   padding-top: 50px;
   padding-bottom: 20px;
-  /*max-width: 60px;*/
   max-height: 130px;
   margin: 0 auto;
   display: block;
@@ -28,6 +27,8 @@
 
 a {
   color: #ffffff;
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
 
 a:hover {
@@ -74,7 +75,6 @@ a:hover {
   padding-bottom: 20px;
 }
 .about {
-
   text-align: center;
   padding-bottom: 20px;
   color: #ffffff;
@@ -90,6 +90,7 @@ a:hover {
 .imagelink:hover {
 opacity: 0.4;
 }
+
 .spacefiller span {
   font-size: 1rem;
 }

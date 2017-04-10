@@ -64,6 +64,11 @@ a:hover {
     display: inline-block;
 }
 
+.nav-menu {
+     display: flex;
+     flex-pack: center;     
+}
+
 .nav-item-header {
   color: #ffffff;
   border: 1.5px solid;
